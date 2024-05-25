@@ -1,5 +1,4 @@
 # Pizza-Max-Sales-Analysis-in-SQL
-# Pizza Max Sales Data Analysis
 
 ## Project Overview
 This project presents a comprehensive data analysis of pizza sales for Pizza Max using SQL. The analysis uncovers valuable insights into sales patterns, revenue generation, and customer preferences.
@@ -48,9 +47,6 @@ The data was imported into MySQL, and necessary tables were created for `orderde
 - Percentage contribution to total revenue by pizza type.
 - Cumulative revenue trends.
 - Top pizzas by revenue within each category.
-
-## Presentation
-The detailed analysis and results are presented in the accompanying PowerPoint presentation, which can be viewed [here](path_to_your_presentation).
 
 ## Conclusion
 The analysis demonstrates advanced SQL skills and provides actionable insights into sales trends and customer preferences. These insights can help Pizza Max optimize their menu, pricing, and marketing strategies to maximize revenue and customer satisfaction.
